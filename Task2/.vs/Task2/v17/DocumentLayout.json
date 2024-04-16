@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\vehicletrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:vehicletrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\vehiclecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:vehiclecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|d:\\pairs\\kpjp_practica\\work_1.8\\task2\\vehicleplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C028B92-3F5B-42CE-91A2-8461C2C88ED7}|Task2.csproj|solutionrelative:vehicleplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleCar.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehicleCar.cs",
+              "RelativeDocumentMoniker": "VehicleCar.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehicleCar.cs",
+              "RelativeToolTip": "VehicleCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:35:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiclePlane.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehiclePlane.cs",
+              "RelativeDocumentMoniker": "VehiclePlane.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehiclePlane.cs",
+              "RelativeToolTip": "VehiclePlane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:34:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleTrain.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehicleTrain.cs",
+              "RelativeDocumentMoniker": "VehicleTrain.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\VehicleTrain.cs",
+              "RelativeToolTip": "VehicleTrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:15:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:03:03.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwI0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:37:02.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.8\\Task2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:00:09.576Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
